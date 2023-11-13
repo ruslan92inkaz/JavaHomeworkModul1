@@ -14,4 +14,7 @@ public class task02 {
                 arrowCount++;
             }
         }
+        System.out.println(arrowCount);
     }
+}
+
